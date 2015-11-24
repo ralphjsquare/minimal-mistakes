@@ -9,6 +9,7 @@ url:              ralphjsquare.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+              input: GFM
 highlighter: pygments
 sass:
   sass_dir: _sass

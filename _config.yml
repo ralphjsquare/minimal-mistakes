@@ -8,8 +8,7 @@ url:              ralphjsquare.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
-              input: GFM
+markdown:    kramdown input:GFM
 highlighter: pygments
 sass:
   sass_dir: _sass

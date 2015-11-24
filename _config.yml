@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            A Tagger's Tag
 locale:           en_US
-url:
+url:              ralphjsquare.github.io
 
 
 # Jekyll configuration
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ralph Jiang
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Describe the city you live in. Nah, I'm just kidding'."
+  email: jianguo.jiang@outlook.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: #ralphjsquare
+  facebook: #N/A
   google:
     plus: #username
     analytics:
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #ralphjsquare
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

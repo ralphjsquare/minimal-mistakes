@@ -9,7 +9,7 @@ title:               A Tagger's Tag
 tagline:             'Tagger Swagger got Blink Dagger'
 description:         'Special Thanks to Mark Otto for the simplicity provided. '
 url:                 http://ralphjsquare.github.io/
-baseurl:             ''
+baseurl:             'http://ralphjsquare.github.io/'
 paginate:            5
 
 # About/contact

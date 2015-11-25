@@ -1,19 +1,19 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              # Site url, without a slash at the end.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+title:            A Tagger's Tag'
+description:      A trial version blog built using Scribble Themeset.
+url:              ralphjsquare.github.io/
+signoff:          Jianguo Jiang.
+disqus_shortname:
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
-    url:          /about
+  - name:         Douban
+    url:          http://www.douban.com/people/giantstonehenge/
   - name:         Blog
-    url:          http://muan.co
+    url:          http://ralphjsquare.github.io
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/ralphjsquare
     external:     true
 highlighter:      pygments
 permalink:        pretty

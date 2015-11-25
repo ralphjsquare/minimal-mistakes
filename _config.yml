@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         Douban
-    url:          http://www.douban.com/people/giantstonehenge/
+    url:          http://www.douban.com/people/giantstonehenge
   - name:         Blog
     url:          http://ralphjsquare.github.io
     external:     true

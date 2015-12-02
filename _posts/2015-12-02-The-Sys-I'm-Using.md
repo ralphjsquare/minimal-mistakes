@@ -25,26 +25,39 @@ title: My Sys & Explorer
 4. 其他软件
 
 	＊ 清理系统用 _CleanMyMac_
-	
+	 
 	＊ 编程的话有 _Python（3.0）_ 、 _R Studio_ 和 _Xcode_
-	
+	 
 	＊ 语言类有 _Rosetta Stone_
-	
+	 
 	＊ 音乐类有 _Guitar Pro_ 和 _Garage Band_
-	
+	 
 	＊ 编辑器还是用自带的 _Terminal_ 多一些；另外Azeril推荐的 _Sublime Text_  很直观好用
 
 5. 浏览器
 
 	一直用的 _Chrome_ ，初衷嘛， 是因为快而且图标比 _FireFox_ 自觉带感
 	> 就是这么无脑。。按说这才说明自己是大众的一部分，不是么？
-	 
+	  
 	插件最常用的是付费的 _JayProxy_ ， 我只是上上社交软件，极偶尔看看U2b，所以感觉够用。要是有其他需要，还是准备购买一些流量来保证速度。
 
 	在墙外生活时利用过 _Unblock Youku_ ， 回到墙内就没用过了。
 
 	还有两个用过（ed）的插件， 一个是豆瓣找书的，现在已不给力；另一个是快读啦，来阅读一些新闻， 偶尔用用还挺有趣。
 
+6. 搜索部分
+
+	自己最常用的就是 `site:website object`这种搜索方式， 大概率能找到自己想要的东西.
+
+	还有一件关于 _Chrome_ 个人觉得非常有意思的事情，就是无意中看到了用一串代码把 _Chrome_ 变成在线编辑器， 好神奇。。 
+
+	代码如下：
+	`data:text/html, <html contenteditable>
+	`
+	So many seas are left uncharted to explore!
+
 先写这么多，以后再补充。
 
 Archived.
+
+[1]:	data:text/html,%20%3Chtml%20contenteditable%3E "data:text/html, <html contenteditable>"

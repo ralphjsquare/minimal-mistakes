@@ -52,12 +52,11 @@ title: My Sys & Explorer
 	还有一件关于 _Chrome_ 个人觉得非常有意思的事情，就是无意中看到了用一串代码把 _Chrome_ 变成在线编辑器， 好神奇。。 
 
 	代码如下：
-	`data:text/html, <html contenteditable>
-	`
+	`[data:text/html, <html contenteditable>]`
+
+
 	So many seas are left uncharted to explore!
 
 先写这么多，以后再补充。
 
 Archived.
-
-[1]:	data:text/html,%20%3Chtml%20contenteditable%3E "data:text/html, <html contenteditable>"

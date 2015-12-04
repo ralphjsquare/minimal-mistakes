@@ -18,27 +18,24 @@ However, the second half pleases me so well. `Fortune` as the start of the artic
 
 ## Basics
 
-\`\`\`
-$ pwd ## Print Working Directory
+`$ pwd ## Print Working Directory`
 
-$ cd ## Change Directory
+`$ cd ## Change Directory`
 
-$ cd - ##返回原先使用的一个目录
+`$ cd - ##返回原先使用的一个目录`
 
-$ cd .. ##返回上一级目录
+`$ cd .. ##返回上一级目录`
 
-$ cd \~ ##返回用户主目录
-\`\`\`
+`$ cd \~ ##返回用户主目录`
 
 #### 相对路径和绝对路径
 
-\`\`\`
-$ cd .. ##工作目录的父目录
+`$ cd .. ##工作目录的父目录`
 
-$ cd \~/Documents/Writings/2015 ##在任意目录下跳转
+`$ cd \~/Documents/Writings/2015 ##在任意目录下跳转`
 
-$ cd Writings/2015 ##在Documents的下跳转
-\`\`\`
+`$ cd Writings/2015 ##在Documents的下跳转`
+
 
 #### 查看\>列表
 

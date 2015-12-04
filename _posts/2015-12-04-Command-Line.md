@@ -28,7 +28,6 @@ $ cd - ##返回原先使用的一个目录
 $ cd .. ##返回上一级目录
 
 $ cd ~ ##返回用户主目录
-
 ```
 
 ####相对路径和绝对路径
@@ -39,7 +38,6 @@ $ cd .. ##工作目录的父目录
 $ cd ~/Documents/Writings/2015 ##在任意目录下跳转
 
 $ cd Writings/2015 ##在Documents的下跳转
-
 ```
 
 ####查看>列表
@@ -52,7 +50,6 @@ $ ls /directory_path ## 制定目录列出内容
 $ ls -a ## 列出包括隐藏文件在内的全部文件
 
 $ ls -f ## 直接列出结果，不排序
-
 ```
 ####查看>属性及内容
 
@@ -62,7 +59,6 @@ $ file ##  确定文件类型
 $ cat ##  显示文档全部内容
 
 $ less ## 浏览文件内容， 退出时用q
-
 ```
 ####创建>文件夹
 
@@ -70,7 +66,6 @@ $ less ## 浏览文件内容， 退出时用q
 $ mkdir ## Make Directory 新建目录
 
 $ rmdir ## 删除空目录
-
 ```
 ####创建>文件
 ```
@@ -79,7 +74,6 @@ $ touch file_name
 $ >file_name
 
 $ echo “words” > file_name
-
 ```
 ####复制
 
@@ -101,7 +95,6 @@ $ mv file_name directory_path
 $ mv file_name .file_name ## 隐藏文件
 
 $ mv -v ## 执行时反馈信息
-
 ```
 ####删除
 
@@ -113,7 +106,6 @@ $ rm -rf directory_path ## -r 递归地删除目录和其中的内容 ； -f 强
 $ rm -rf / ## 删除整个系统的文件... 删除命令 / 代表根目录 -r 代表递归删除子目录及内容 -f 代表强制
 
 $ rm -i file_name ## 删除前确认, i(interactive 交互性)参数
-
 ```
 -
 

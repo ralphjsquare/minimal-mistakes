@@ -32,7 +32,7 @@ title: My Sys & Explorer
 	 
 	＊ 音乐类有 _Guitar Pro_ 和 _Garage Band_
 	 
-	＊ 编辑器还是用自带的 _Terminal_ 多一些；另外Azeril推荐的 _Sublime Text_  很直观好用
+	＊ 用自带的 _Terminal_ 多一些；另外,Azeril推荐的 _Sublime Text_  很直观好用
 
 5. 浏览器
 
